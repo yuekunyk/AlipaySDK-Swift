@@ -24,12 +24,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 import AlipaySDK
 ```
 
-- [官方文档]([https://opendocs.alipay.com/open/204/105295#iOS%E8%B0%83%E7%94%A8%E8%AF%B4%E6%98%8E](https://opendocs.alipay.com/open/204/105295#iOS调用说明))
+[官方文档]([https://opendocs.alipay.com/open/204/105295#iOS%E8%B0%83%E7%94%A8%E8%AF%B4%E6%98%8E](https://opendocs.alipay.com/open/204/105295#iOS调用说明))
 
 
 ## Author
 
-mail.yuekun@gmail.com, mail.yuekun@gmail.com
+mail.yuekun@gmail.com
 
 ## License
 
