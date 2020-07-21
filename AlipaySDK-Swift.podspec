@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 AlipaySDK-Swift，官方SDK封装，便于Swift使用.
                        DESC
 
-  s.homepage         = 'https://github.com/mail.yuekun@gmail.com/AlipaySDK-Swift'
+  s.homepage         = 'https://github.com/YueKun555/AlipaySDK-Swift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mail.yuekun@gmail.com' => 'mail.yuekun@gmail.com' }
-  s.source           = { :git => 'https://github.com/mail.yuekun@gmail.com/AlipaySDK-Swift.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/YueKun555/AlipaySDK-Swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
