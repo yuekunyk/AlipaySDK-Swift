@@ -1,0 +1,43 @@
+{
+  "name": "AlipaySDK-Swift",
+  "version": "0.1.0",
+  "summary": "A short description of AlipaySDK-Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mail.yuekun@gmail.com/AlipaySDK-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mail.yuekun@gmail.com": "mail.yuekun@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mail.yuekun@gmail.com/AlipaySDK-Swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.0",
+  "requires_arc": true,
+  "static_framework": true,
+  "vendored_frameworks": "Vendor/AlipaySDK.framework",
+  "frameworks": [
+    "SystemConfiguration",
+    "CoreTelephony",
+    "QuartzCore",
+    "CoreText",
+    "CoreGraphics",
+    "UIKit",
+    "Foundation",
+    "CFNetwork",
+    "CoreMotion",
+    "WebKit"
+  ],
+  "libraries": [
+    "z",
+    "c++"
+  ],
+  "resources": "Vendor/AlipaySDK.bundle",
+  "swift_version": "5.0"
+}

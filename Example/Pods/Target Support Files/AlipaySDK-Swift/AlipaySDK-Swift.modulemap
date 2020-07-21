@@ -1,0 +1,6 @@
+framework module AlipaySDK_Swift {
+  umbrella header "AlipaySDK-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_AlipaySDK_Swift_Example {
+  umbrella header "Pods-AlipaySDK-Swift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
